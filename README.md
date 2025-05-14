@@ -1,6 +1,6 @@
 # Kitchen
 > Introduction
-> 
+
 Welcome to our kitchen app
 
 - Web app / Mobile app
